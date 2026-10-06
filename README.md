@@ -5,5 +5,4 @@
 <p align="center">
 <h4 align="center"
   
-[strawpage](https://thetriumph.straw.page) <img width="20" height="20" alt="4d6085fa" src="https://github.com/user-attachments/assets/4c9498dc-d8a6-49a1-9267-0345a7779371" />
- [atabook](https://bdsm.atabook.org/)
+[strawpage](https://thetriumph.straw.page) <img width="20" height="20" alt="4d6085fa" src="https://github.com/user-attachments/assets/4c9498dc-d8a6-49a1-9267-0345a7779371" /> [atabook](https://bdsm.atabook.org/)
